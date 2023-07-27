@@ -1,16 +1,16 @@
-### Hi there 👋
+# Github Stats 📈
 
-<!--
-**Suchismita-Deb/Suchismita-Deb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Suchismita's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Suchismita-Deb&show_icons=true) 
 
-Here are some ideas to get you started:
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchismita-Deb&layout=compact&hide=Jupyter%20Notebook,HTML) -->
+| | |
+| --- | --- |
+|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suchismita-Deb&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|![Nitin's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suchismita-Deb&layout=compact&langs_count=8&hide_border=true&theme=calm&hide=Jupyter%20Notebook,HTML)|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=Suchismita-Deb)
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Suchismita-Deb&theme=github) -->
+
+<!-- <img 1src="https://activity-graph.herokuapp.com/graph?username=Suchismita-Deb&theme=github" alt="GitHub Activity Graph" width="100%" /> -->
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Suchismita-Deb)
