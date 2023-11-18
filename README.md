@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<p>
+<div>
 I develop software, create content and love meeting new people!
-</p>
+</div>
 
 - 👨‍💻 You can also check out my portfolio at [https://suchismita-deb.github.io/](https://suchismita-deb.github.io/)
 
