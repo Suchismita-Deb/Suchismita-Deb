@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+<p>
+I develop software, build technical communities, create content and love meeting new people!
+</p>
 
 # Github Stats 📈
 
