@@ -7,7 +7,7 @@
   </a>
 </div>
 <p>
-I develop software, build technical communities, create content and love meeting new people!
+I develop software, create content and love meeting new people!
 </p>
 
 # Github Stats 📈
