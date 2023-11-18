@@ -10,6 +10,10 @@
 I develop software, create content and love meeting new people!
 </p>
 
+- 👨‍💻 You can also check out my portfolio at [https://suchismita-deb.github.io/](https://suchismita-deb.github.io/)
+
+- 📫 How to reach me **suchismitadeb2000@gmail.com**
+
 # Github Stats 📈
 
 ![Suchismita's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Suchismita-Deb&show_icons=true) 
