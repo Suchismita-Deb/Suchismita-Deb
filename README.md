@@ -1,9 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Ashish</h1>
-<h3 align="center">I am a Software Developer currently working at Amazon</h3>
+<h1 align="center">Hi there 👋, I'm Suchismita Deb</h1>
 
 <h3 align="left">Connect with me:</h3> 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ashishps1/">
+  <a href="https://www.linkedin.com/in/debsuchismita/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
