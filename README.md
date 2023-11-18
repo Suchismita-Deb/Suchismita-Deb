@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Suchismita Deb</h1>
 
-# Connect with me:
+### Connect with me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/debsuchismita/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
