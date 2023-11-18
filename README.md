@@ -1,3 +1,12 @@
+<h1 align="center">Hi there 👋, I'm Ashish</h1>
+<h3 align="center">I am a Software Developer currently working at Amazon</h3>
+
+<h3 align="left">Connect with me:</h3> 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ashishps1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 # Github Stats 📈
 
 ![Suchismita's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Suchismita-Deb&show_icons=true) 
