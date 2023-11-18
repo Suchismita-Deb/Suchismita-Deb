@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 # Github Stats 📈
 
 ![Suchismita's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Suchismita-Deb&show_icons=true) 
