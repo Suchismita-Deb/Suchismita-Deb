@@ -1,11 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Suchismita Deb</h1>
 
-### Connect with me:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/debsuchismita/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <div>
 I develop software, create content and love meeting new people!
 </div>
@@ -13,6 +7,11 @@ I develop software, create content and love meeting new people!
 - 👨‍💻 You can also check out my portfolio at [https://suchismita-deb.github.io/](https://suchismita-deb.github.io/)
 
 - 📫 How to reach me **suchismitadeb2000@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
+</p>
+  
 
 # Github Stats 📈
 
