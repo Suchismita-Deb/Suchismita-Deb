@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Suchismita Deb</h1>
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Full+Stack+Software+Developer;Backend+Developer;Computer+Science+Engineer;;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Full+Stack+Software+Developer;Backend+Developer;Computer+Science+Engineer;DSA+Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -11,7 +11,7 @@ I develop software, create content and love meeting new people!
 
 - 👨‍💻 You can also check out my portfolio at [https://suchismita-deb.github.io/](https://suchismita-deb.github.io/)
 
-- 📫 How to reach me **suchismitadeb2000@gmail.com**
+
 # Connect with me🤝:
 
 <a href="https://www.linkedin.com/in/debsuchismita/" target="blank">
