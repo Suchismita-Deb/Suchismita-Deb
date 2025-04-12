@@ -112,7 +112,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg  **This one i
 
 ![](https://komarev.com/ghpvc/?username=Suchismita-Deb)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Suchismita-Deb&theme=github)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Suchismita-Deb&theme=github) -->
 
 <!-- <img 1src="https://activity-graph.herokuapp.com/graph?username=Suchismita-Deb&theme=github" alt="GitHub Activity Graph" width="100%" /> -->
 
