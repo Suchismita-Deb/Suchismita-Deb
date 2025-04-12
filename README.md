@@ -108,14 +108,13 @@ https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg  **This one i
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchismita-Deb&layout=compact&hide=Jupyter%20Notebook,HTML) -->
 | | |
 | --- | --- |
-|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suchismita-Deb&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|![Nitin's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suchismita-Deb&layout=compact&langs_count=8&hide_border=true&theme=calm&hide=Jupyter%20Notebook,HTML)|
+|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suchismita-Deb&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|![Suchismita's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suchismita-Deb&layout=compact&langs_count=8&hide_border=true&theme=calm&hide=Jupyter%20Notebook,HTML)|
 
 ![](https://komarev.com/ghpvc/?username=Suchismita-Deb)
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Suchismita-Deb&theme=github) -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Suchismita-Deb&theme=github)
 
 <!-- <img 1src="https://activity-graph.herokuapp.com/graph?username=Suchismita-Deb&theme=github" alt="GitHub Activity Graph" width="100%" /> -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Suchismita-Deb)
 
-![Contribution](https://github-readme-stats.vercel.app/api?username=Suchismita-Deb&show_icons=true&theme=default)
